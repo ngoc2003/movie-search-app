@@ -36,7 +36,7 @@ const MovieSearch = () => {
           placeholder="Search movie here . . ."
         />
       </div>
-      <div className="grid grid-cols-3 gap-10">
+      <div className="grid 2xl:grid-cols-4 lg:grid-cols-3 gap-10 sm:grid-cols-2">
         {movies.length > 0 &&
           movies.map((item) => (
             <MovieItem data={item} key={item.id}></MovieItem>
