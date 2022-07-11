@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About This App
+
+This project is just used for searching film, no more features.
+
 ## Available Scripts
 
 In the project directory, you can run:
